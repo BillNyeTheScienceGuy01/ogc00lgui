@@ -169,7 +169,7 @@ local title = Instance.new("TextLabel")
 	title.ZIndex = 2
 	title.Font = tef
 	title.FontSize = "Size24"
-	title.Text = "c00lgui Reborn Rc7 by v3rx"
+	title.Text = "c00lgui made by 007n7 "
 	title.TextColor3 = whit
 --           inside pages        --
 local acg = Instance.new("Frame")
